@@ -1,2 +1,2 @@
 # av-security
-Security system ; fourth year project ;
+Security system ; fourth year project ; openCV ; ANN
